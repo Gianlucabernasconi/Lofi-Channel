@@ -54,3 +54,5 @@ Don't forget to set up your RapidAPI key to access YouTube. Set your key in main
 ```
 
 I hope you enjoy exploring this small project as much as I enjoyed creating it! 🎵💻
+
+You can review the project here ➡️ https://663c5f1ebab5d060196b88f0--lofi-channel.netlify.app/
